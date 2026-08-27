@@ -2,7 +2,7 @@
 
 # 🛡️ Détecteur de Codes Invisibles
 ### Par OKOLE NTWALI VAINQUEUR - Premier Légendaire de Goma
-![Tech CEO](./congo_cybersecurity_banner.webp)
+(./congo_cybersecurity_banner.webp)
 ![Version Africaine](./IMG-20260827-WA9318.jpg)![OKOLE NTWALI VAINQUEUR](./IMG-20260827-WA9318.jpg)
 
 # 🛡️ Détecteur de Codes Invisibles
